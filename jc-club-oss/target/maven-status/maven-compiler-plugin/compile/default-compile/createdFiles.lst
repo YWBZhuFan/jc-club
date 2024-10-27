@@ -1,0 +1,9 @@
+com\jichi\oss\adapter\AliStorageAdapter.class
+com\jichi\oss\entity\FileInfo.class
+com\jichi\oss\adapter\StorageAdapter.class
+com\jichi\oss\OssApplication.class
+com\jichi\oss\config\MinioConfig.class
+com\jichi\oss\controller\FIleController.class
+com\jichi\oss\adapter\MinioStorageAdapter.class
+com\jichi\oss\util\MinioUtil.class
+com\jichi\oss\config\StorageConfig.class
